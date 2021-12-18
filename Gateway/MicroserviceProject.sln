@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiGateway", "ApiGateway", "{E134991F-DC72-4579-95C3-A4D50583EED0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGateway", "ApiGateway\ApiGateway\ApiGateway.csproj", "{87559C3C-494E-49B5-9ABF-D4F1764FE572}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.User", "UserService\Api.User\Api.User.csproj", "{16F6F2A8-28AA-4E09-9076-090187F3059E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87559C3C-494E-49B5-9ABF-D4F1764FE572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87559C3C-494E-49B5-9ABF-D4F1764FE572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87559C3C-494E-49B5-9ABF-D4F1764FE572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87559C3C-494E-49B5-9ABF-D4F1764FE572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16F6F2A8-28AA-4E09-9076-090187F3059E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F6F2A8-28AA-4E09-9076-090187F3059E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F6F2A8-28AA-4E09-9076-090187F3059E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F6F2A8-28AA-4E09-9076-090187F3059E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{87559C3C-494E-49B5-9ABF-D4F1764FE572} = {E134991F-DC72-4579-95C3-A4D50583EED0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC333FF6-7670-4745-9E13-E26EE9D6CB11}
+	EndGlobalSection
+EndGlobal
