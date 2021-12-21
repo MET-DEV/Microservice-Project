@@ -20,7 +20,7 @@ Request
 <img  src="https://user-images.githubusercontent.com/72195347/146667731-6676269b-bc37-4bbc-a048-83a2385f3462.jpg">
 Response
 <img width="360" height="300" src="https://user-images.githubusercontent.com/72195347/146667746-a2bf81f2-3354-4063-a808-3a032c2a82ca.jpg">
-<h1 align="center">Auth Service</h1>
+<h1 align="center">Auth Service / Api.User</h1>
 <b> Technologies:.NET, Mssql, ADO.NET </b>
 <h4>Register: </h4>
 <hr/>
