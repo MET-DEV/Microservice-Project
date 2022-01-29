@@ -1,7 +1,8 @@
-# Gateway:
-.NET, Ocelot
+## Gateway Tech
+-  NET 
+-  Ocelot
 <h1 align="center">Customer Service</h1>
-<b> Technologies: Golang, Gorm, Gorilla Mux, PostgreSql </b>
+Technologies: Golang, Gorm, Gorilla Mux, PostgreSql </b>
 <h4>Add: </h4>
 <hr/>
 Request
